@@ -1,0 +1,18 @@
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+
+# Logs
+npm-debug.log*
+
+# Environment
+.env
+
+# Others
+coverage/
